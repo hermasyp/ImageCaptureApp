@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageCaptureApp</string>
+    <string name="image_preview">image preview</string>
+    <string name="image_from_gallery">Image From Gallery</string>
+    <string name="image_from_camera">image_from_camera</string>
+    <string name="image_using_library">Image Using Library</string>
+</resources>
